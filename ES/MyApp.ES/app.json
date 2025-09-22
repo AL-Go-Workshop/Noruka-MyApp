@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "ad2448a5-ef74-4094-9958-372ba1b07014",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Noruka",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "215b79d8-07fc-4370-b957-8bb99c7f318e",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Noruka",
             "version":  "1.0.0.0"
         }
     ],

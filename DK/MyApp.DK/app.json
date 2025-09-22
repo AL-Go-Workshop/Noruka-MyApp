@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "8a223d4b-542b-43c8-961f-8bbff704336f",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Noruka",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "215b79d8-07fc-4370-b957-8bb99c7f318e",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Noruka",
             "version":  "1.0.0.0"
         }
     ],
